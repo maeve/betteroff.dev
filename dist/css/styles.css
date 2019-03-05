@@ -33,9 +33,12 @@ header {
   100% { transform: translate(-100%, 0); }
 }
 
-
 figure {
   margin: auto;
   margin-top: 10px;
   width: 534px;
+}
+
+.twitter-follow-button {
+  float: right;
 }
